@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T07:49:45-05:00
-modified: 2024-02-22T09:27:57-05:00
+modified: 2024-02-22T09:52:44-05:00
 ---
 
 # Bread
@@ -16,3 +16,4 @@ modified: 2024-02-22T09:27:57-05:00
 1:06:00 light knead
 1:30:00 by this time rise 3 (but probably much earlier. 1:20 left on time.)
 1:35:00 approaching the top of pan at peak.
+2:00:00 dough smushed against the top. Try all wheat flour next. Maybe it was just the liquid temperature that skewed things.
