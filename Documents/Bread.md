@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T07:49:45-05:00
-modified: 2024-02-22T08:56:01-05:00
+modified: 2024-02-22T08:58:46-05:00
 ---
 
 # Bread
@@ -13,3 +13,4 @@ modified: 2024-02-22T08:56:01-05:00
 29:15 knead 2
 40:00 a double beep. For seeds?
 46:30 rise 2
+1:06:00 light knead
