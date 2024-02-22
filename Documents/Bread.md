@@ -1,6 +1,6 @@
 ---
 created: 2024-02-22T07:49:45-05:00
-modified: 2024-02-22T09:23:14-05:00
+modified: 2024-02-22T09:27:57-05:00
 ---
 
 # Bread
@@ -15,3 +15,4 @@ modified: 2024-02-22T09:23:14-05:00
 46:30 rise 2
 1:06:00 light knead
 1:30:00 by this time rise 3 (but probably much earlier. 1:20 left on time.)
+1:35:00 approaching the top of pan at peak.
