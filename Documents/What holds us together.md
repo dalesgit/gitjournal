@@ -1,6 +1,6 @@
 ---
 created: 2024-02-23T22:48:46-05:00
-modified: 2024-02-24T12:50:08-05:00
+modified: 2024-02-24T12:53:41-05:00
 ---
 
 # What do we hold in common
@@ -21,4 +21,5 @@ modified: 2024-02-24T12:50:08-05:00
 - residual Puritan values
 - pragmatism
 - common sense
+- privilege and exceptionalism
 -
