@@ -1,6 +1,6 @@
 ---
 created: 2024-02-23T22:48:46-05:00
-modified: 2024-02-24T12:53:41-05:00
+modified: 2024-02-24T13:00:28-05:00
 ---
 
 # What do we hold in common
@@ -22,4 +22,5 @@ modified: 2024-02-24T12:53:41-05:00
 - pragmatism
 - common sense
 - privilege and exceptionalism
+- https://www.fixdemocracyfirst.org/post/6-the-myths-that-blind-us
 -
