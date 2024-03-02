@@ -1,11 +1,13 @@
 ---
 created: 2024-02-22T07:49:45-05:00
-modified: 2024-02-22T09:52:44-05:00
+modified: 2024-02-23T10:13:43-05:00
 ---
 
 # Bread
 
 *2 cups wheat 1 cup regular. Ball of dough almost dry. Just smidgen of dough left on finger.*
+
+*for the next batch I think go back to all while wheat, heat the liquid, check consistency, and whole wheat setting.*
 
 2:53 Start
 6:44 1/2 tsp water
