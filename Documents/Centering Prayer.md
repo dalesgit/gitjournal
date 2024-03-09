@@ -1,6 +1,6 @@
 ---
 created: 2024-03-09T10:38:14-05:00
-modified: 2024-03-09T11:18:50-05:00
+modified: 2024-03-09T11:57:59-05:00
 ---
 
 # Centering Prayer
@@ -11,4 +11,5 @@ modified: 2024-03-09T11:18:50-05:00
 - ca 25?
 - 11:11 [quick capture](https://www.avonctlibrary.info/books-media/)
 - Free library
-- Evelyn Underhill pdf
+- Evelyn Underhill pdf https://www.catholicspiritualdirection.org/cloudunknowing.pdf
+-
