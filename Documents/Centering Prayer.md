@@ -1,6 +1,6 @@
 ---
 created: 2024-03-09T10:38:14-05:00
-modified: 2024-03-09T10:49:19-05:00
+modified: 2024-03-09T11:17:59-05:00
 ---
 
 # Centering Prayer
@@ -10,3 +10,6 @@ modified: 2024-03-09T10:49:19-05:00
 - centering is a method preparing us to contemplative. 
 - ca 25?
 -
+11:11 [[quick capture]]:  https://www.avonctlibrary.info/books-media/
+Free library
+Evelyn Underhill pdf
