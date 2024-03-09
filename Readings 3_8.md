@@ -1,10 +1,10 @@
 ---
 created: 2024-03-09T06:31:30-05:00
-modified: 2024-03-09T06:49:32-05:00
+modified: 2024-03-09T06:52:10-05:00
 ---
 
 # Readings 3/8
 
-- [[american-culture]] [[politics]] :  [In Two Speeches, Trump and Biden Offer Starkly Different Views of the Country - The New York Times](https://www.nytimes.com/2024/03/08/us/politics/trump-biden-speeches.html)
-- [[technical]] [[world]] : [Spate of Mock News Sites With Russian Ties Pop Up in U.S. - The New York Times](https://www.nytimes.com/2024/03/07/business/media/russia-us-news-sites.html)
-- [[reading]] : [Aberdeenshire farm boy who inspired Tolkien and CS Lewis](https://www.bbc.com/news/articles/clkm0ejnzedo)
+- #politics #american-culture :  [In Two Speeches, Trump and Biden Offer Starkly Different Views of the Country - The New York Times](https://www.nytimes.com/2024/03/08/us/politics/trump-biden-speeches.html)
+- #technical #world : [Spate of Mock News Sites With Russian Ties Pop Up in U.S. - The New York Times](https://www.nytimes.com/2024/03/07/business/media/russia-us-news-sites.html)
+- #reading : [Aberdeenshire farm boy who inspired Tolkien and CS Lewis](https://www.bbc.com/news/articles/clkm0ejnzedo)
