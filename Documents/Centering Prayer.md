@@ -1,6 +1,6 @@
 ---
 created: 2024-03-09T10:38:14-05:00
-modified: 2024-03-09T12:10:12-05:00
+modified: 2024-03-09T13:18:43-05:00
 ---
 
 # Centering Prayer
@@ -12,6 +12,9 @@ modified: 2024-03-09T12:10:12-05:00
 - 11:11 [quick capture](https://www.avonctlibrary.info/books-media/)
 - Free library
 - Evelyn Underhill pdf https://www.catholicspiritualdirection.org/cloudunknowing.pdf
-- centering about consent to Gods presence in our inner life
+- centering about consent to Gods activities and presence in our inner life
 - word is sacred symbol— “that effects what it signifies”
+- it is a method not a technique 
+- nb I haven’t tried to verbalize or reflect on the history of my seeking contemplative/ mystical experiences. 
+- 
 -
