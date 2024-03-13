@@ -1,11 +1,11 @@
 ---
 created: 2024-03-13T13:51:06-04:00
-modified: 2024-03-13T13:54:18-04:00
+modified: 2024-03-13T13:56:10-04:00
 ---
 
 # Sunrise Irrigation
 
-# sunrise irrigation
+# Sunrise Irrigation
 
 Several things stand out right away 
 1. The filter at the incoming intake in the yard is ancient rusted and needs to be replaced was incorrectly installed to begin with.
