@@ -1,11 +1,13 @@
 ---
 created: 2024-03-13T13:51:06-04:00
-modified: 2024-03-13T13:53:29-04:00
+modified: 2024-03-13T13:53:51-04:00
 ---
 
 # Sunrise Irrigation
 
-Several things stand out right away 
+# sunrise irrigation
+
+ Several things stand out right away 
 1. The filter at the incoming intake in the yard is ancient rusted and needs to be replaced was incorrectly installed to begin with.
 2. The valves have been replaced, but probably all of them need to be replaced now one has an exploded solenoid. That’s the one that doesn’t work.
 3. Several dead heads.
