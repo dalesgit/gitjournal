@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88517c5f51db149e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5921f5801fad6e8",
+  "active": "88517c5f51db149e",
   "lastOpenFiles": [
     "2024-03-03-07-36-19.md",
     "2024-03-02-10-12-40.md",
