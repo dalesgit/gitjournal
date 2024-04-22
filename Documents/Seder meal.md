@@ -1,12 +1,13 @@
 ---
 created: 2024-04-21T11:44:16-04:00
-modified: 2024-04-22T13:40:08-04:00
+modified: 2024-04-22T13:41:20-04:00
 ---
 
 # Seder meal
 
 - prep music: print or share with Kindle, pdf
 - bones? 
+- https://www.cnn.com/travel/seder-plate-items-passover?cid=ios_app
 - alternate "protest" placement on plates, e.g. orange + ...
 - Now, many Jews place an **orange** on their Seder plate as a way to show they are thinking of and including marginalized communities in Judaism, from LGBT individuals to undocumented immigrants.
 
