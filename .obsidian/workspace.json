@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bebb4e4ff57a7965",
+        "id": "817f4b174691fcb3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5921f5801fad6e8",
+            "id": "425f5784cae00e21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88517c5f51db149e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88517c5f51db149e",
+  "active": "425f5784cae00e21",
   "lastOpenFiles": [
+    "Git.md",
     "Documents/For Sharlene.md",
     "2024-04-06-07-39-39.md",
     "2024-04-04-16-51-26.md",
@@ -183,7 +165,6 @@
     "The app.md",
     "Question.md",
     "How to expand to markdown.md",
-    "Git.md",
     "Documents/What holds us together.md",
     "Documents/My todos.md",
     "Documents/2024-02-24-13-23-29.md",
