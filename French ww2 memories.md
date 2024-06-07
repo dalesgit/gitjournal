@@ -5,4 +5,4 @@ modified: 2024-06-05T10:49:40-06:00
 
 # French ww2 memories
 
-https://www.nytimes.com/2024/06/05/world/europe/dday-france-resistance-wwii.html?smid=nytcore-ios-share&referringSource=articleShare
+<https://www.nytimes.com/2024/06/05/world/europe/dday-france-resistance-wwii.html?smid=nytcore-ios-share&referringSource=articleShare>
