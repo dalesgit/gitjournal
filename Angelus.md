@@ -1,6 +1,6 @@
 ---
 created: 2024-06-24T08:58:20-04:00
-modified: 2024-06-24T08:58:42-04:00
+modified: 2024-06-24T09:00:04-04:00
 ---
 
 # Angelus
@@ -18,10 +18,12 @@ Amen.
 
 V/. Behold the handmaid of the Lord,
 R/. Be it done unto me according to your Word.
+
 Hail Mary…
 
 V/. And the Word was made flesh,
 R/. And dwelt among us.
+
 Hail Mary…
 
 V/. Pray for us, O holy Mother of God,
