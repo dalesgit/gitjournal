@@ -6,7 +6,7 @@ tags: theology
 
 # Irenaeus
 
-Doxa  theou zoeh anthropou
+*Doxa  theou zoeh anthropou*
 
 Gloria Dei vivens homo
 

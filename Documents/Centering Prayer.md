@@ -3,7 +3,7 @@ created: 2024-03-09T10:38:14-05:00
 modified: 2024-03-09T13:18:43-05:00
 ---
 
-# Centering Prayer
+# Centering Prayer March 9, 2024
 
 - Elaine here but not Lou 
 - contemplative prayer. Not what we do or say or earn 

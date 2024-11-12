@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7202ec0c59f62e0f",
+    "id": "529aa63f7e6ee0e7",
     "type": "split",
     "children": [
       {
-        "id": "817f4b174691fcb3",
+        "id": "3ad8d38003fa4584",
         "type": "tabs",
         "children": [
           {
-            "id": "425f5784cae00e21",
+            "id": "ac94cc5985ac02a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Centering Prayer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Centering Prayer"
             }
           }
         ]
@@ -23,27 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8322825ca1c2ccac",
+    "id": "71d4a976ff540977",
     "type": "split",
     "children": [
       {
-        "id": "5c8a47d4a8929784",
+        "id": "7d34ac0e6e7c47c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f007df556136b701",
+            "id": "387e8444e4773864",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "1aa45acdb5d4ba58",
+            "id": "41e003978115fb58",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +64,7 @@
             }
           },
           {
-            "id": "dc71752d475f2f1f",
+            "id": "ecafd7ca7d6e290c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "74674bb01ffa2de8",
+    "id": "cb0be91f7354f9f5",
     "type": "split",
     "children": [
       {
-        "id": "b66e405b8fdc7b08",
+        "id": "2c7ca683a89d828e",
         "type": "tabs",
         "children": [
           {
-            "id": "71542f3bcdba5f64",
+            "id": "6cf36abb5065cb11",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Centering Prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Centering Prayer"
             }
           },
           {
-            "id": "6704b9817cf2f6d3",
+            "id": "39874c7a77c7b4b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Centering Prayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Centering Prayer"
             }
           },
           {
-            "id": "d1884de271709376",
+            "id": "e9cb677183ce9ae2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,30 +134,23 @@
             }
           },
           {
-            "id": "7970f9cc6bc26b3b",
+            "id": "d3aba8e7e42ec30f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Centering Prayer.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "f7f67d4d2d3b5946",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Centering Prayer"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,34 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "425f5784cae00e21",
+  "active": "ac94cc5985ac02a5",
   "lastOpenFiles": [
-    "Git.md",
-    "Documents/For Sharlene.md",
-    "2024-04-06-07-39-39.md",
-    "2024-04-04-16-51-26.md",
-    "2024-04-01-06-45-17.md",
-    "2024-03-30-13-14-46.md",
-    "2024-03-29-07-44-33.md",
-    "2024-03-27-11-36-55.md",
-    "2024-03-22-12-33-10.md",
-    "2024-03-21-06-16-57.md",
-    "2024-03-20-18-23-08.md",
-    "2024-03-03-07-36-19.md",
-    "2024-03-02-10-12-40.md",
-    "2024-03-17-10-51-47.md",
-    "2024-02-19-08-05-17.md",
-    "The app.md",
-    "Question.md",
-    "How to expand to markdown.md",
-    "Documents/What holds us together.md",
-    "Documents/My todos.md",
-    "Documents/2024-02-24-13-23-29.md",
-    "Documents/2024-02-23-10-07-02.md",
-    "2024-03-01-07-45-29.md",
-    "2024-02-29-07-04-38.md",
-    "2024-02-28-08-06-28.md",
-    "2024-02-27-14-43-15.md",
-    "Pages"
+    "My todos.md",
+    "Linkages.md",
+    "Irenaeus.md",
+    "Centering Prayer.md",
+    "2024-02-20-06-59-18.md",
+    "2024-02-24-13-23-29.md"
   ]
 }
