@@ -147,7 +147,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "425f5784cae00e21",
+  "active": "d1884de271709376",
   "lastOpenFiles": [
     "Git.md",
     "Documents/For Sharlene.md",
