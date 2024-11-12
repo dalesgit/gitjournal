@@ -1,6 +1,7 @@
 ---
 created: 2024-07-01T23:43:52-04:00
 modified: 2024-10-29T23:12:38-04:00
+tags: theology
 ---
 
 # Irenaeus
