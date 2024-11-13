@@ -1,6 +1,7 @@
 ---
 created: 2024-03-09T06:31:30-05:00
 modified: 2024-03-09T21:54:46-05:00
+tags: note-taking
 ---
 
 # Readings 3/8

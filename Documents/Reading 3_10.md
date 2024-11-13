@@ -1,6 +1,7 @@
 ---
 created: 2024-03-10T03:48:13-04:00
 modified: 2024-03-10T03:49:11-04:00
+tags: personal
 ---
 
 # Reading 3/10

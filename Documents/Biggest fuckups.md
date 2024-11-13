@@ -1,6 +1,7 @@
 ---
 created: 2024-06-30T08:08:51-04:00
 modified: 2024-06-30T14:41:42-04:00
+tags: church
 ---
 
 # Biggest fuckups

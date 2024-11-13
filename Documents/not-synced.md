@@ -1,6 +1,7 @@
 ---
 created: 2024-05-04T07:18:08-04:00
 modified: 2024-05-04T07:20:56-04:00
+tags: MP, codependent, exercise
 ---
 
 I haven't been exercising. Is there discouragement in that?

@@ -1,6 +1,7 @@
 ---
 created: 2024-03-12T00:03:05-04:00
 modified: 2024-03-12T00:15:24-04:00
+tags: church
 ---
 
 # Readings 3/11

@@ -1,6 +1,7 @@
 ---
 created: 2024-07-01T07:50:17-04:00
 modified: 2024-07-01T07:56:39-04:00
+tags: tech, github
 ---
 
 # Github themes

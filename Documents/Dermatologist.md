@@ -1,6 +1,7 @@
 ---
 created: 2024-03-13T13:54:55-04:00
 modified: 2024-03-13T13:55:51-04:00
+tags: health
 ---
 
 # Dermatologist
