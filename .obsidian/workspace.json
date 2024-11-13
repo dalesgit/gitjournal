@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#theology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1884de271709376",
+  "active": "1aa45acdb5d4ba58",
   "lastOpenFiles": [
     "Git.md",
     "Documents/For Sharlene.md",
