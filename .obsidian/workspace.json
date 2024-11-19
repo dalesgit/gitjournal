@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/2024-03-13-13-51-06.md",
+                "file": "Documents/Angelus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-03-13-13-51-06"
+              "title": "Angelus"
             }
           }
         ]
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5921f5801fad6e8",
+  "active": "d1884de271709376",
   "lastOpenFiles": [
+    "Documents/2024-03-13-13-51-06.md",
     "Documents/2024-05-16-09-18-41.md",
     "2024-11-19.md",
     "conflict-files-obsidian-git.md",
@@ -200,7 +201,6 @@
     "Jan-Mar/2024-03-17-10-51-47.md",
     "Jan-Mar/2024-03-16-10-16-34.md",
     "Jan-Mar/2024-03-15-20-55-41.md",
-    "Jan-Mar/2024-03-14-22-04-40.md",
     "Jan-Mar",
     "Documents/c7b7e3da5099674ac33253607360d3e7.jpg",
     "Documents/c19279a7248745096ce55beb431d23d8.png",
