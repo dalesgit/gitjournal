@@ -1,6 +1,7 @@
 ---
 created: 2024-02-23T22:48:46-05:00
 modified: 2024-02-24T13:00:28-05:00
+tags: American-culture, common
 ---
 
 # What do we hold in common

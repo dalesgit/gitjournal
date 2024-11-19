@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-18-05-46-00.md",
+                "file": "2024-06-24-09-44-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTime"
           }
         }
       },
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-02-18-05-46-00.md",
+            "file": "2024-06-24-09-44-04.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-02-18-05-46-00.md",
+            "file": "2024-06-24-09-44-04.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-02-18-05-46-00.md"
+            "file": "2024-06-24-09-44-04.md"
           }
         }
       },
@@ -139,6 +139,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a279dd5b30ff1b60",
-  "lastOpenFiles": []
+  "active": "b60dc06321f39929",
+  "lastOpenFiles": [
+    "Readings 3_8.md",
+    "Git.md",
+    "Question.md",
+    "Lydia call.md",
+    "c7b7e3da5099674ac33253607360d3e7.jpg",
+    "c19279a7248745096ce55beb431d23d8.png",
+    "2024-02-18-05-46-00.md"
+  ]
 }

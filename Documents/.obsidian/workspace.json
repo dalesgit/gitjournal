@@ -1,68 +1,53 @@
 {
   "main": {
-    "id": "7202ec0c59f62e0f",
+    "id": "529aa63f7e6ee0e7",
     "type": "split",
     "children": [
       {
-        "id": "bebb4e4ff57a7965",
+        "id": "3ad8d38003fa4584",
         "type": "tabs",
         "children": [
           {
-            "id": "f5921f5801fad6e8",
+            "id": "ac94cc5985ac02a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-19.md",
+                "file": "Centering Prayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-19"
-            }
-          },
-          {
-            "id": "f4c75d73231fe6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Centering Prayer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8322825ca1c2ccac",
+    "id": "71d4a976ff540977",
     "type": "split",
     "children": [
       {
-        "id": "5c8a47d4a8929784",
+        "id": "7d34ac0e6e7c47c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f007df556136b701",
+            "id": "387e8444e4773864",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "1aa45acdb5d4ba58",
+            "id": "41e003978115fb58",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "dc71752d475f2f1f",
+            "id": "ecafd7ca7d6e290c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "74674bb01ffa2de8",
+    "id": "cb0be91f7354f9f5",
     "type": "split",
     "children": [
       {
-        "id": "b66e405b8fdc7b08",
+        "id": "2c7ca683a89d828e",
         "type": "tabs",
         "children": [
           {
-            "id": "71542f3bcdba5f64",
+            "id": "6cf36abb5065cb11",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Centering Prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Centering Prayer"
             }
           },
           {
-            "id": "6704b9817cf2f6d3",
+            "id": "39874c7a77c7b4b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Centering Prayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from Centering Prayer"
             }
           },
           {
-            "id": "d1884de271709376",
+            "id": "e9cb677183ce9ae2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,33 +134,23 @@
             }
           },
           {
-            "id": "7970f9cc6bc26b3b",
+            "id": "d3aba8e7e42ec30f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Centering Prayer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "f7f67d4d2d3b5946",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of Centering Prayer"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,43 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4c75d73231fe6a5",
+  "active": "ac94cc5985ac02a5",
   "lastOpenFiles": [
-    "2024-11-19.md",
-    "conflict-files-obsidian-git.md",
-    "Jul-Aug/2024-08-03-09-06-19.md",
-    "Jul-Aug/2024-07-17-18-32-03.md",
-    "Jul-Aug/2024-07-13-08-45-38.md",
-    "Jul-Aug/2024-07-11-11-32-48.md",
-    "Jul-Aug/2024-07-10-09-49-34.md",
-    "Jul-Aug/2024-07-09-20-47-05.md",
-    "Jul-Aug/2024-07-08-20-26-58.md",
-    "Jul-Aug/2024-07-08-11-51-16.md",
-    "Jul-Aug/2023-08-09-09-13-35.md",
-    "Jul-Aug/2024-07-03-15-37-56.md",
-    "Jul-Aug/2023-06-30-07-37-13.md",
-    "Jul-Aug/2023-06-29-07-30-37.md",
-    "Jul-Aug",
-    "Jan-Mar/2024-03-30-13-14-46.md",
-    "Jan-Mar/2024-03-29-07-44-33.md",
-    "Jan-Mar/2024-03-27-11-36-55.md",
-    "Jan-Mar/2024-03-22-12-33-10.md",
-    "Jan-Mar/2024-03-21-06-16-57.md",
-    "Jan-Mar/2024-03-20-18-23-08.md",
-    "Jan-Mar/2024-03-19-07-18-14.md",
-    "Jan-Mar/2024-03-17-10-51-47.md",
-    "Jan-Mar/2024-03-16-10-16-34.md",
-    "Jan-Mar/2024-03-15-20-55-41.md",
-    "Jan-Mar/2024-03-14-22-04-40.md",
-    "Jan-Mar/2024-03-13-07-45-33.md",
-    "Jan-Mar",
-    "Documents/c7b7e3da5099674ac33253607360d3e7.jpg",
-    "Documents/c19279a7248745096ce55beb431d23d8.png",
-    "Documents/The app.md_",
-    "Documents/LICENSE",
-    "Documents/How to expand to markdown.md_",
-    "Documents/Git.md_",
-    "Apr-Jun",
-    "Pages"
+    "My todos.md",
+    "Linkages.md",
+    "Irenaeus.md",
+    "Centering Prayer.md",
+    "2024-02-20-06-59-18.md",
+    "2024-02-24-13-23-29.md"
   ]
 }
