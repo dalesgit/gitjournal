@@ -1,7 +1,9 @@
 ---
 created: 2024-06-05T10:48:35-06:00
 modified: 2024-06-05T10:49:40-06:00
-tags: history
+tags:
+  - history
+  - ww2
 ---
 
 # French ww2 memories
