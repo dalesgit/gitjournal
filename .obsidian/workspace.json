@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jan-Mar/2024-03-27-11-36-55.md",
+                "file": "Jan-Mar/Centering Prayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-03-27-11-36-55"
+              "title": "Centering Prayer"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Jan-Mar/Centering Prayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Centering Prayer"
             }
           },
           {
@@ -155,8 +155,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f9538cfce08c034",
+  "active": "71542f3bcdba5f64",
   "lastOpenFiles": [
+    "Jan-Mar/2024-03-30-13-14-46.md",
+    "Jan-Mar/2024-03-29-07-44-33.md",
+    "Jan-Mar/2024-03-27-11-36-55.md",
     "Jan-Mar/2024-03-22-12-33-10.md",
     "Jan-Mar/2024-03-21-06-16-57.md",
     "Jan-Mar/2024-03-20-18-23-08.md",
@@ -197,9 +199,6 @@
     "Jan-Mar/2024-03-02-10-12-40.md",
     "Jan-Mar/2024-03-01-07-45-29.md",
     "Jan-Mar/2024-02-29-07-04-38.md",
-    "Jan-Mar/2024-02-28-08-06-28.md",
-    "Jan-Mar/2024-02-27-14-43-15.md",
-    "Jan-Mar/2024-02-26-06-48-59.md",
     "assets/c7b7e3da5099674ac33253607360d3e7.jpg",
     "assets/8ae7f4865e44edbb67d990105dd3ed73.png",
     "Apr-Jun/c7b7e3da5099674ac33253607360d3e7.jpg",
