@@ -1,7 +1,8 @@
 ---
 created: 2024-06-30T08:08:51-04:00
-modified: 2025-01-23T16:30:40-05:00
+modified: 2025-01-23T16:37:26-05:00
 tags: church
+type: Checklist
 ---
 
 # Biggest fuckups
