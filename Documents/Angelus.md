@@ -1,7 +1,8 @@
 ---
 created: 2024-06-24T08:58:20-04:00
 modified: 2024-06-24T09:00:04-04:00
-tags: prayer
+tags:
+  - prayer
 ---
 
 # Angelus

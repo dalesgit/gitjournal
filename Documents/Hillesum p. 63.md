@@ -1,6 +1,10 @@
 ---
 created: 2024-11-20T00:42:49-05:00
 modified: 2024-11-20T00:44:34-05:00
+tags:
+  - conversion
+  - reading
+  - quote
 ---
 
 # Hillesum p. 63

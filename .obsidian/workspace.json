@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f7aec0fcf9b3839",
+        "id": "9df1231b6950eee9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f9538cfce08c034",
+            "id": "c619bd6ec52569c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documents/2024-03-13-13-51-06.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-03-13-13-51-06"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,12 +146,11 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,27 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f9538cfce08c034",
+  "active": "c619bd6ec52569c6",
   "lastOpenFiles": [
-    "2024-11-19-05-27-32.md",
-    "Documents/Angelus.md",
-    "Documents/2024-03-13-13-51-06.md",
-    "Documents/2024-05-16-09-18-41.md",
-    "2024-11-19.md",
-    "conflict-files-obsidian-git.md",
-    "Jul-Aug/2024-08-03-09-06-19.md",
-    "Jul-Aug/2024-07-17-18-32-03.md",
-    "Jul-Aug/2024-07-13-08-45-38.md",
-    "Jul-Aug/2024-07-11-11-32-48.md",
-    "Jul-Aug/2024-07-10-09-49-34.md",
-    "Jul-Aug/2024-07-09-20-47-05.md",
-    "Jul-Aug/2024-07-08-20-26-58.md",
-    "Jul-Aug/2024-07-08-11-51-16.md",
-    "Jul-Aug/2023-08-09-09-13-35.md",
-    "Jul-Aug/2024-07-03-15-37-56.md",
-    "Jul-Aug/2023-06-30-07-37-13.md",
-    "Jul-Aug/2023-06-29-07-30-37.md",
-    "Jul-Aug",
+    "2025-01-25-04-51-14.md",
+    "Jan-Mar/Centering Prayer.md",
+    "Documents/Park in Clearwater.md",
     "Jan-Mar/2024-03-30-13-14-46.md",
     "Jan-Mar/2024-03-29-07-44-33.md",
     "Jan-Mar/2024-03-27-11-36-55.md",
@@ -201,6 +179,25 @@
     "Jan-Mar/2024-03-20-18-23-08.md",
     "Jan-Mar/2024-03-19-07-18-14.md",
     "Jan-Mar/2024-03-17-10-51-47.md",
+    "Jan-Mar/2024-03-16-10-16-34.md",
+    "Jan-Mar/2024-03-15-20-55-41.md",
+    "Jan-Mar/2024-03-14-22-04-40.md",
+    "Jan-Mar/2024-03-13-13-51-06.md",
+    "Jan-Mar/2024-03-13-07-45-33.md",
+    "Jan-Mar/2024-03-11-11-47-18.md",
+    "Jan-Mar/2024-03-11-06-58-18.md",
+    "Jan-Mar/2024-03-09-06-18-38.md",
+    "Jan-Mar/2024-03-08-07-52-53.md",
+    "Jan-Mar/2024-03-07-10-47-09.md",
+    "Jan-Mar/2024-03-07-08-19-07.md",
+    "Jan-Mar/2024-03-06-07-27-54.md",
+    "Jan-Mar/2024-03-05-07-54-40.md",
+    "Jan-Mar/2024-03-04-07-48-30.md",
+    "Jan-Mar/2024-03-03-07-36-19.md",
+    "assets/c7b7e3da5099674ac33253607360d3e7.jpg",
+    "assets/8ae7f4865e44edbb67d990105dd3ed73.png",
+    "Apr-Jun/c7b7e3da5099674ac33253607360d3e7.jpg",
+    "Jul-Aug",
     "Jan-Mar",
     "Documents/c7b7e3da5099674ac33253607360d3e7.jpg",
     "Documents/c19279a7248745096ce55beb431d23d8.png",
