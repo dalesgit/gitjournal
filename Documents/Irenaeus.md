@@ -5,7 +5,7 @@ tags:
   - theology
   - quote
 ---
-
+#glory #quote
 # Irenaeus
 
 *Doxa  theou zoeh anthropou*
