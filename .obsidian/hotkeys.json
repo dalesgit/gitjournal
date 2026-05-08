@@ -25,5 +25,14 @@
       ],
       "key": "N"
     }
+  ],
+  "backlink:toggle-backlinks-in-document": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
