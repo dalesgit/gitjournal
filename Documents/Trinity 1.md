@@ -1,6 +1,6 @@
 ---
 created: 2026-05-19T16:19:40-04:00
-modified: 2026-05-19T16:34:46-04:00
+modified: 2026-05-19T16:36:01-04:00
 ---
 
 # Trinity 1
@@ -19,4 +19,4 @@ in many ways, I don’t know what to do with a sermon on Trinity Sunday, even th
 
 And there’s many centuries of both famous and not so famous preachers, giving one of the countless illustrations or analogies for who and what the Trinity is. Father son and Holy Spirit. St. Patrick’s Clover. Saint Augustine argues that since humans are made in the image of God, the human mind itself reflects the Trinitarian structure, specifically through the inseparable unity of memory, understanding, and will.
 
-happily there are very few days that we are called on to preach on a doctrine rather than a human being. I think there are only two such days in the Anglican calendar. Other traditions have a mattering of Sundays devoted to a doctrine our belief. it’s been around since at least the 14th century.
+happily there are very few days that we are called on to preach on a doctrine rather than a human being. I think there are only two such days in the Anglican calendar. Other traditions have a smattering of Sundays devoted to a doctrine our belief. Trinity Sunday has been around since at least the 14th century.
