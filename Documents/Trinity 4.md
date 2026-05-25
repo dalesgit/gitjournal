@@ -1,6 +1,6 @@
 ---
 created: 2026-05-25T18:10:15-04:00
-modified: 2026-05-25T18:26:26-04:00
+modified: 2026-05-25T18:33:47-04:00
 ---
 
 # Trinity 4
@@ -16,3 +16,9 @@ I have to tell you that I’m not satisfied with having two ways to think about 
 and in so far as Trinity has been used to divide people, to punish and violently assault and kill, to sacrifice other human beings, in the name of God, that’s a God I don’t wanna be a part of.
 
 if it’s possible to intellectualize the Trinity and that perspective is limited. and it’s possible to consider God from the perspective of what we’re gonna do about it, but that somehow is not the whole story, I’m persuaded that there is a third way. it is not a choice between believing and doing. It’s not about dividing or finding ways to live together while disagreeing.
+
+I remember a story that one of my mentors from seminary told me. He said he had traveled around the church widely. He was in charge of placing all seminarians in there internship, and so he had visited countless congregations. He said that all of the usual ways that people had found to distinguish one kind of Church from another. Ways that people had found to separate the right way of being Church versus the wrong way. he said that all those old ways of distinguishing people were no longer relevant. The way he saw it. There were congregations that believed in the living God and those that didn’t.
+
+The way I might put it today is that there are those who recognize the awesome, sometimes awful, frequently mysterious, powerful, intrusive, disruptive, and also merciful and kind presence of the living God. And there are those that don’t.
+
+The Trinity is somehow about the fear of the Lord, which is the beginning of wisdom. It is about recognizing awe in our midst.
