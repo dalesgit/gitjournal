@@ -1,6 +1,6 @@
 ---
 created: 2026-05-23T07:37:34-04:00
-modified: 2026-05-25T18:01:27-04:00
+modified: 2026-05-25T18:02:38-04:00
 ---
 
 # Trinity-3
@@ -17,7 +17,7 @@ Looked at this way, “Trinity” is one way that one slice of creation has chos
 
 I have to tell you that I’m not satisfied with having two ways to think about the Trinity. it is the Trinity after all. Three. But seriously. 
 
-One of the ways of thinking about the Trinity that has been important in the last several generations has to do with focusing on relationship. God is in some way all about relationships. God is clearly not a thing or an individual. And as God is in God‘s very essence somehow about relating then so it is with God‘s creation. It is about relationships.
+One of the ways of thinking about the Trinity that has been important in the last several generations has to do with focusing on relationship. God is in some way all about relationships. God is clearly not a thing or an individual. And as God is somehow essentially about relating then so it is with God‘s creation. It is about relationships.
 
 it turns out reality is like that. 150 years ago reality was understood to be about things and the energy that relates those things. Since Einstein, we can no longer understand reality to be that.
 
