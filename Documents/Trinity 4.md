@@ -1,6 +1,6 @@
 ---
 created: 2026-05-25T18:10:15-04:00
-modified: 2026-05-25T18:21:46-04:00
+modified: 2026-05-25T18:26:26-04:00
 ---
 
 # Trinity 4
@@ -14,3 +14,5 @@ Looked at this way, “Trinity” is one way that one slice of creation has chos
 I have to tell you that I’m not satisfied with having two ways to think about the Trinity. it is the Trinity after all. Three. But seriously.
 
 and in so far as Trinity has been used to divide people, to punish and violently assault and kill, to sacrifice other human beings, in the name of God, that’s a God I don’t wanna be a part of.
+
+if it’s possible to intellectualize the Trinity and that perspective is limited. and it’s possible to consider God from the perspective of what we’re gonna do about it, but that somehow is not the whole story, I’m persuaded that there is a third way. it is not a choice between believing and doing. It’s not about dividing or finding ways to live together while disagreeing.
