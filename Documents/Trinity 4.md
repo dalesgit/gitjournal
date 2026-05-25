@@ -1,6 +1,6 @@
 ---
 created: 2026-05-25T18:10:15-04:00
-modified: 2026-05-25T18:14:10-04:00
+modified: 2026-05-25T18:14:54-04:00
 ---
 
 # Trinity 4
@@ -11,4 +11,4 @@ Christians against the Muslims. All of them “heathen”. The Trinity has been 
 
 Looked at this way, “Trinity” is one way that one slice of creation has chosen to “talk” about the One God. If there isn’t **one God** -- well then I think we just need to start over.
 
-I have to tell you that I’m not
+I have to tell you that I’m not satisfied with having two ways to think about the Trinity. it is the Trinity after all. Three. But seriously.
