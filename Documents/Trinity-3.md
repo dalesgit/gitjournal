@@ -1,6 +1,6 @@
 ---
 created: 2026-05-23T07:37:34-04:00
-modified: 2026-05-25T18:12:06-04:00
+modified: 2026-05-25T18:12:49-04:00
 ---
 
 # Trinity-3
@@ -9,7 +9,7 @@ So I’ve identified two “ways” we can talk about God. One from the point of
 
 --- see below
 
-Christians against the Muslims. All of them “heathen”. The Trinity has been used for violent purposes all too often in our history.
+
 
 It is common-place for people to refer to “Jewish” god or “Muslim” god. Or those who believe in “many” gods as somehow woeful mistaken and on the wrong side. It has seemed plain as day to me that either there’s one God or there’s not. If there’s one God, it is the God of all that is: from the Big Bang onward. From Quasars to Neutrinos. Such a God is far bigger than anything that language or logic or imagination -- (or human beings) -- can possibly express in any single language. 
 
