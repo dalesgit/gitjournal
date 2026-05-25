@@ -1,6 +1,6 @@
 ---
 created: 2026-05-23T07:37:34-04:00
-modified: 2026-05-25T18:13:58-04:00
+modified: 2026-05-25T18:14:20-04:00
 ---
 
 # Trinity-3
@@ -11,7 +11,6 @@ So I’ve identified two “ways” we can talk about God. One from the point of
 
 
 
-satisfied with having two ways to think about the Trinity. it is the Trinity after all. Three. But seriously. 
 
 One of the ways of thinking about the Trinity that has been important in the last several generations has to do with focusing on relationship. God is in some way all about relationships. God is clearly not a thing or an individual. And as God is somehow essentially about relating then so it is with God‘s creation. It is about relationships.
 
