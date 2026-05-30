@@ -1,9 +1,9 @@
 ---
 created: 2026-05-23T07:37:34-04:00
-modified: 2026-05-25T18:14:20-04:00
+modified: 2026-05-30T09:02:21-04:00
 ---
 
-# Trinity-3
+# Trinity 3
 
 So I’ve identified two “ways” we can talk about God. One from the point of trying to “understand”. The other from the point of view of “Well, there’s God, what am I going to do about it.
 
