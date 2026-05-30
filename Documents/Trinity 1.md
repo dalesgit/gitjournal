@@ -1,14 +1,14 @@
 ---
 created: 2026-05-19T16:19:40-04:00
-modified: 2026-05-30T09:03:50-04:00
+modified: 2026-05-30T09:05:02-04:00
 ---
 
 # Trinity 1 a
 
-[[Trinity 2]]
-[[Trinity 3]]
-[[Trinity 4]]
-[[Trinity 5]]
+- [[Trinity 2]]
+- [[Trinity 3]]
+- [[Trinity 4]]
+- [[Trinity 5]]
 
 I don’t know how old I was when I first heard the phrase **caveat emptor**. I can place it within a couple of years. I took Latin all through junior high and high school. And I can remember when I first heard the phrase and it registered that it was Latin. "Oh, I understand that!" I was far enough into my courses in Latin that I recognized it. So it would’ve been maybe ninth grade.
 
