@@ -1,8 +1,86 @@
 ---
 created: 2026-06-20T17:20:11-04:00
-modified: 2026-06-20T17:21:15-04:00
+modified: 2026-06-20T18:01:35-04:00
 ---
 
 # dale data
 
-## 2002-3
+## 2000-01
+- dale’s work 01 05 01
+- Notebook, 01 11 02
+- Windows, 01 08 25
+- blank 01 09 27
+- church d 01 02 10
+- one 01 01 28 to 09 28
+- Documents,May2000Notebook
+- July 2000 Home 2729 home 729
+- dwork 6 2001
+- Feb 00 Notebl200
+- July 200 Oct 2000a
+- Feb 00
+- Dec 00
+- Win 3.1, July 99, Aug 99, Sept 99, Sept 99b
+- cat old Toshiba
+- workbook1 Traveling, My work bak, My work1, My work 6/98, Home bak 2, Church bak, Church bak2 (cd1)
+- Homework 5/7/01
+- homefiled 5/7/01
+- 011112 (2001)
+- April 01
+- April B01
+- Family Slideshow 12/00
+- 2001 early
+- blank?
+- Note020401
+- 021009 Hmwork
+- @home#4
+- @home #2
+- Daleswk NB , Recordings
+- dales mp3-sel
+- mp3 (1)
+- Bible/Summer
+- Lydia school dir
+- fromarch Daleswork
+- nbkbackups
+- 1st Leon
+- Banned - Judas intro
+- Noel Leon
+- “Where is hte love” My presentation
+- gov vids, dv, mp4 , mpeg
+- #6Christ, vids-2, meet santas?
+- -
+- emerging church communities in Minneapolis, Sept 2007
+- Emma itunes back up 6/30
+- “Journey to Hawaii” presentation
+- Isaiah et al
+- Nov 26
+- Hoover. book. pdf
+- Search committee photos
+- Do this 5-ed
+- St. Nicholas
+- God bless the grass
+- churchback +iso +video
+- Fantasy 2
+- Miriam TY for River’s birthday
+- Handwritten fonts
+- Church 2 FT
+- Notebook2
+- Dales filed
+- Incd
+- Notebook1 Homework1 NB
+- Church backup 2
+- Daleswork cdrw
+- Notedback.qic
+- office e
+- cd drive cdbackup4
+- cd backs
+- DEdr2
+- churche prgm
+- .nbc 0111
+- NB prgm
+- Bak2cdrw
+- linux homeback4
+- linux backups
+- VCD May Day
+- Tape #3
+- Notebook Windows Cdrive
+- @home #5
