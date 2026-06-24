@@ -1,0 +1,8 @@
+---
+created: 2026-06-24T08:31:56-04:00
+modified: 2026-06-24T08:32:22-04:00
+---
+
+# what-took-you-so-long-my-sister-addiction
+
+https://open.substack.com/pub/michaelrhatch/p/what-took-you-so-long-my-sister-addiction?r=1ouz6o&utm_medium=ios
