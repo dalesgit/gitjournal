@@ -1,9 +1,12 @@
 ---
 created: 2026-06-01T18:34:40-04:00
-modified: 2026-07-04T13:36:13-04:00
+modified: 2026-07-05T18:42:48-04:00
 ---
 
 # Blood pressure
+
+My average from this table is:
+141/76.75 … 67 
 
 | date | BP | pulse |
 | --- | ---: | :---: |
