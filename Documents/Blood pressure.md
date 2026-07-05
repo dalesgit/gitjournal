@@ -34,3 +34,10 @@ June 25 | 153 | 85 | 65
 June 26 | 137 | 80 | 70
 June 30 | 144 | 77 | 63
 July 4 | 147 | 83 | 67
+
+---
+
+| **Elevated**                                   | 120 – 129     | and | LESS THAN 80 |
+| ---------------------------------------------- | ------------- | --- | ------------ |
+| **STAGE 1 HYPERTENSION (High Blood Pressure)** | 130 – 139     | or  | 80 – 89      |
+| **STAGE 2 HYPERTENSION (High Blood Pressure)** | 140 OR HIGHER | or  | 90 OR HIGHER |
